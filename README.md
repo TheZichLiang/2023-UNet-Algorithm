@@ -16,4 +16,6 @@ We cannot use classification to predict wind speed and surface pressure of hurri
 
 Changes made: 
 -> Softmax to linear activation function 
--> Binary Cross Entropy loss to Mean Squared Error (MSE) Model has been published in the Remote Sensing Journal! Check it out!
+-> Binary Cross Entropy loss to Mean Squared Error (MSE)
+
+Article has been published in the Remote Sensing Journal! Check it out!
